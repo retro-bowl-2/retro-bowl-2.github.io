@@ -1,9 +1,5 @@
 # Welcome to Retro Bowl 2
-Retro Bowl 2 is an American style football game created by New Star Games. Are you ready to manage your dream team into victory? Be the boss of your NFL franchise, expand your roster, take care of your press duties to keep your team and fans happy. MORE UPDATES SOON!!!
-
-# Subscribe To **Loser Boys** On youtube for Future updates and leaks Link Below:
-
-https://www.youtube.com/channel/UCSjd2xkw3oG66hCDH9BZoWQ
+Dive into Retro Bowl 2, the dynamic American football game by New Star Games. Take charge of your NFL franchise, build your dream team, and handle press duties for ultimate success. Exciting updates await – experience the game-changing thrill now!!!
 
 # Future Updates 
 #1 More Uniforms/Helments
@@ -13,4 +9,3 @@ https://www.youtube.com/channel/UCSjd2xkw3oG66hCDH9BZoWQ
 #3 Emotes
 
 #4 Levels/Tiers
-
