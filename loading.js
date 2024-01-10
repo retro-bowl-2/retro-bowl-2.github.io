@@ -1,4 +1,4 @@
-<html xmlns="https://loserboysonyt.github.io/">
+<html xmlns="https://retro-bowl-2.github.io/">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <META HTTP-EQUIV="pragma" CONTENT="no-cache">
@@ -14,13 +14,13 @@ a:active {text-decoration:none;}
 <body bgcolor=black onLoad="location.href = url;" style='overflow:hidden;overflow-y:hidden'>
 <div class="linear">
 <script language="JavaScript">
-var url = 'https://loserboysonyt.github.io/';
+var url = 'https://retro-bowl-2.github.io/';
 </script>
     <div align=center style="position: absolute;   
     height:200px;
     top:50%;  
     margin-top:-100px; ">
-	<span>Loading...Please wait a moment.<p><a href="https://loserboysonyt.github.io/">Click here to enter directly&gt;&gt;</a></span>
+	<span>Loading...Please wait a moment.<p><a href="https://retro-bowl-2.github.io/">Click here to enter directly&gt;&gt;</a></span>
 		<style>.proccess{width:2%;height:1%;background:#fff;border-style:none;}a{color:#000}span{color:#000}</style>
 	<div align="center">
 		<form method=post name=proccess>
@@ -36,7 +36,7 @@ setInterval('proccess();',70)
 function proccess(){
 document.forms.proccess.elements[p].style.background=c[j];
 p+=1;
-if(p==27){p=0;j=1-j;window.location.href="https://loserboysonyt.github.io/";}}
+if(p==27){p=0;j=1-j;window.location.href="https://retro-bowl-2.github.io/";}}
 </script>
 	</div>
 	</div>
